@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PeopleCert Task</string>
+    <string name="sent_frames">Frames Sent:</string>
+    <string name="sent_bytes">Sent Bytes:</string>
+    <string name="byteName">Byte</string>
+    <string name="frame">Frame</string>
+    <string name="show">Show:</string>
+    <string name="image_frames">Image Frames</string>
+    <string name="video_streams">Video Streams</string>
+</resources>
